@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_credentials"
+        android:icon="@drawable/baseline_key_24"
+        android:title="Credentials" />
+    <item
+        android:id="@+id/navigation_cards"
+        android:icon="@drawable/baseline_credit_card_24"
+        android:title="Cards" />
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="Settings" />
+</menu>
